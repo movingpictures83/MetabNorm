@@ -1,0 +1,2 @@
+Prefix plugins/MetabNorm/example/
+Plugin MetabNorm inputfile NMR outputfile NMR.normalized.csv
