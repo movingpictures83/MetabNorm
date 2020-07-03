@@ -2,7 +2,8 @@
 # Language: R
 # Input: prefix
 # Output: CSV (normalized counts)
-# Tested with: PluMA 1.0, R 3.2.5
+# Tested with: PluMA 1.1, R 4.0.0
+# Dependency: hglm_2.2.1
 
 PluMA plugin that takes metabolomics data (CSV format) and applies the 
 algorithm of Jauhiainen et al (2014).  The model applies mixed mode analysis based
